@@ -10,3 +10,8 @@ We have the largest inventory of fan favorite items on the web. And if we don't 
 
 https://github.com/damo-maker/publishing-github/assets/57318637/4c6feadb-f13d-4b79-8193-10c1bf6b83f1
 
+
+## Disclaimer
+
+Stargazers Aliens is a fictitious company created by <a class="text-secondary" href="https://www.linkedin.com/">LinkedIn Corporation</a>, or its affiliates, solely for the creation and development of <a class="text-secondary" href="https://www.linkedin.com/learning/">educational training</a> materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
+
